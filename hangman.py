@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Oct 29 19:10:05 2018
-
 @author: matsu
 """
 
